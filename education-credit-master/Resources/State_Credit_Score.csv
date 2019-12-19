@@ -1,0 +1,52 @@
+Rank,State,credit score,percent diff
+1,Minnesota,722,'+7.27
+2,North Dakota,713,'+5.64
+3,Vermont,713,'+5.64
+4,New Hampshire,712,'+5.45
+5,South Dakota,711,'+5.27
+6,Wisconsin,710,'+5.09
+7,Iowa,708,'+4.73
+8,Massachusetts,706,'+4.36
+9,Washington,704,'+4
+10,Hawaii,702,'+3.64
+11,Montana,702,'+3.64
+12,Colorado,701,'+3.45
+13,Nebraska,700,'+3.27
+14,Oregon,700,'+3.27
+15,Connecticut,698,'+2.91
+16,Utah,698,'+2.91
+17,Maine,697,'+2.73
+18,Idaho,695,'+2.36
+19,New York,694,'+2.18
+20,Pennsylvania,694,'+2.18
+21,Wyoming,694,'+2.18
+22,New Jersey,692,'+1.82
+23,Rhode Island,691,'+1.64
+24,Virginia,690,'+1.45
+25,Illinois,689,'+1.27
+26,California,688,'+1.09
+27,Kansas,684,'+0.36
+28,Michigan,684,'+0.36
+29,Ohio,684,'+0.36
+30,Missouri,681,-0.18
+31,Delaware,679,-0.55
+32,Maryland,679,-0.55
+33,Indiana,677,-0.91
+34,Alaska,675,-1.27
+35,District of Columbia,674,-1.45
+36,North Carolina,673,-1.64
+37,Florida,672,-1.82
+38,Arizona,671,-2
+39,Kentucky,669,-2.36
+40,West Virginia,668,-2.55
+41,Tennessee,667,-2.73
+42,New Mexico,664,-3.27
+43,Oklahoma,663,-3.45
+44,Arkansas,662,-3.64
+45,South Carolina,660,-4
+46,Texas,660,-4
+47,Alabama,657,-4.55
+48,Nevada,657,-4.55
+49,Georgia,656,-4.73
+50,Louisiana,654,-5.09
+51,Mississippi,648,-6.18
